@@ -376,6 +376,8 @@ nav {
   label {
 	display: block;
 	font-weight: bold;
+	text-align: left;
+	padding-top: 10px;
   }
   
   input[type="text"],
